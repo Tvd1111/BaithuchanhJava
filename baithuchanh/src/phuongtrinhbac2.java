@@ -1,3 +1,4 @@
+import Java.util.Scanner;
 public class phuongtrinhbac2 {
     public static void main(String[] args){
         double hesoA,hesoB,hesoC,nghiemX1,nghiemX2,delta;

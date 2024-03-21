@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class sliide90 {
+public class slide90 {
     public static void main(String[] args) {
         String chuoi;
         char kyTu;

@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class silde30{
+public class slide30{
     public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
         int n , sodu , tong=0;
